@@ -1,3 +1,3 @@
 # Tableau
 
-Vizalizations as part of Data Science A-Z by Krill Emenko
+Visualizations as part of Data Science A-Z by Krill Emenko
